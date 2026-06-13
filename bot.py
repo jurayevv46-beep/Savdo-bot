@@ -8,7 +8,7 @@ from telegram.ext import (
 )
 
 # --- SOZLAMALAR ---
-BOT_TOKEN = "8812440262:AAFdz4p3KGLKACajDcaIVVKeP_vJH-onwGs"
+BOT_TOKEN = "8812440262:AAHOncLpkxNu5sblJarpX_kEQQ5wPM_-TKc"
 
 # Conversation states
 (
